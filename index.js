@@ -23,7 +23,7 @@ app.use(async ctx => {
             MONGO_SERVICE_HOST,
             MONGO_SERVICE_PORT,
             REDIS_SERVICE_HOST,
-            v: '0.0.1'
+            v: '0.0.2'
         }
     }
 })
