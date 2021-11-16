@@ -1,0 +1,14 @@
+node_modules
+logs
+run
+scripts
+docker_volumes
+npm-debug.log
+yarn-error.log
+package-lock.json
+yarn.lock
+docker-compose.yml
+Dockerfile
+.vscode
+.git
+.devcontainer

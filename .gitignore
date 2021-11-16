@@ -1,0 +1,16 @@
+logs/
+scripts/
+docker_volumes/
+npm-debug.log
+yarn-error.log
+node_modules/
+package-lock.json
+yarn.lock
+coverage/
+.vscode/
+.idea/
+.devcontainer/
+run/
+.DS_Store
+*.sw*
+*.un~
