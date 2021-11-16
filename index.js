@@ -23,11 +23,11 @@ app.use(async ctx => {
             MONGO_SERVICE_HOST,
             MONGO_SERVICE_PORT,
             REDIS_SERVICE_HOST,
-            v: '0.0.2'
+            v: '0.0.3'
         }
     }
 })
 
-server.listen(PORT, () => {
+app.listen(PORT, () => {
     console.log(`Server is running at http://localhost:${PORT}`)
 })
